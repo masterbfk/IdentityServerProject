@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gOvep6YczwDMVNo1ZxNrYoMAh488p5aSMer4sZns9zmg9U8bVsYNV++J4A2kckjw9bDFIVvLvuANC5lxvYinTg==",
+  "dgSpecHash": "p2lHKtq8cJll5WOVR6SKhVIrWQ+CeMwBny/R5LanSsCK+SH6WdfekmUkHjj4pnGIqjlsq2ucUTBmmQMBarEgJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bayramfatih.kubasik\\source\\repos\\IdentityServer\\IdentityServer.Client1\\IdentityServer.Client1.csproj",
+  "projectFilePath": "C:\\Users\\bayramfatih.kubasik\\Source\\Repos\\IdentityServerProject\\IdentityServer.Client1\\IdentityServer.Client1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

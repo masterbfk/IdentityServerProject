@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kk81WWfFLzlYS2hRrk9ZGW1/r0ZAhMgBLIh4giLPobiIJk0TU8f41aWUHaOeSLYo/iqXggrrcChu77VhVpTAuw==",
+  "dgSpecHash": "e7lo6faimVa9ZWwuSc1Zu9aOj7sK4kIdQVqxGKlWPQl58eUKiMTczGl7uE/mZZB1Y+zl3oxxEVt5monYkRDmkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bayramfatih.kubasik\\source\\repos\\IdentityServer\\IdentityServer.API2\\IdentityServer.API2.csproj",
+  "projectFilePath": "C:\\Users\\bayramfatih.kubasik\\Source\\Repos\\IdentityServerProject\\IdentityServer.API2\\IdentityServer.API2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.10\\microsoft.aspnetcore.authentication.jwtbearer.6.0.10.nupkg.sha512",
     "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

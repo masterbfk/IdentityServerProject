@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bayramfatih.kubasik\\source\\repos\\IdentityServer\\IdentityServer.Client2\\IdentityServer.Client2.csproj",
+      "projectUniqueName": "C:\\Users\\bayramfatih.kubasik\\Source\\Repos\\IdentityServerProject\\IdentityServer.Client2\\IdentityServer.Client2.csproj",
       "projectName": "IdentityServer.Client2",
-      "projectPath": "C:\\Users\\bayramfatih.kubasik\\source\\repos\\IdentityServer\\IdentityServer.Client2\\IdentityServer.Client2.csproj",
+      "projectPath": "C:\\Users\\bayramfatih.kubasik\\Source\\Repos\\IdentityServerProject\\IdentityServer.Client2\\IdentityServer.Client2.csproj",
       "packagesPath": "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bayramfatih.kubasik\\source\\repos\\IdentityServer\\IdentityServer.Client2\\obj\\",
+      "outputPath": "C:\\Users\\bayramfatih.kubasik\\Source\\Repos\\IdentityServerProject\\IdentityServer.Client2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gQvyhG2jEO8C8qqht87O+ixIxvieeAxoPKu4WcKzFFjXreP7kXwg/OVzrmhyWOiU/2HEAPT+CJFyBsblRV5wqg==",
+  "dgSpecHash": "kxHSWLsKAO63iws4cwGDmYfNWLzj4/o3CvfdbspsSDycAjYRi5wc4crTMU9hBjTcBL1vLRwXf3ADiEjQV/5IRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bayramfatih.kubasik\\source\\repos\\IdentityServer\\IdentityServer.AuthServer\\IdentityServer.AuthServer.csproj",
+  "projectFilePath": "C:\\Users\\bayramfatih.kubasik\\Source\\Repos\\IdentityServerProject\\IdentityServer.AuthServer\\IdentityServer.AuthServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
     "C:\\Users\\bayramfatih.kubasik\\.nuget\\packages\\identityserver4\\4.1.2\\identityserver4.4.1.2.nupkg.sha512",

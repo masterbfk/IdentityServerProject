@@ -16,7 +16,7 @@ namespace IdentityServer.API2.Controllers
             {
                 new Picture(){Id = 1, Name = "at",Url="at.jpg"},
                 new Picture(){Id = 2, Name = "kedi",Url="kedi.jpg"},
-                new Picture(){Id = 3, Name = "köpek",Url="köpek.jpg"},
+                new Picture(){Id = 3, Name = "köpek",Url="köpek1.jpg"},
                 new Picture(){Id = 4, Name = "ayı",Url="ayı.jpg"}
             };
             return Ok(list);
